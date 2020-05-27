@@ -6,7 +6,7 @@
 - 相对于长图来说，vue-photo-preview的表现形式更好：
 - 如果只适用于图片放大缩小我更倾向于vue-photo-preview；
 
-![对比图](https://upload-images.jianshu.io/upload_images/3120799-e87c0dcef297278e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![对比图](https://upload-images.jianshu.io/upload_images/3120799-e87c0dcef297278e.png?imageMogr2/auto-orient/strip|imageView2/2/w/771/format/webp)
 ### photoswipe使用：
 - 首先引入需要使用的文件
 ```
@@ -273,4 +273,4 @@ updated: function() { //初始化photoswipe
   },
 }
 ```
-![效果图](https://upload-images.jianshu.io/upload_images/3120799-a9c60092c48032bb.gif?imageMogr2/auto-orient/strip)
+![效果图](https://upload-images.jianshu.io/upload_images/3120799-a9c60092c48032bb.gif?imageMogr2/auto-orient/strip|imageView2/2/w/383/format/webp)
